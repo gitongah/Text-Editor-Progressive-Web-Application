@@ -4,7 +4,7 @@
   -https://text-editor-progressive-web-application.onrender.com
   
   ## Description 🔎
-  This is a Text Editor application that features data persistence techniques.This application functions offline where you might not have internet connection. This text editor uses the IndexDB database to store the data and used in retriving data to the application.
+  This is a text editor application that incorporates data persistence techniques to ensure users do not lose their work. Designed to function offline, the application is ideal for situations where an internet connection is unavailable. It leverages the IndexedDB database to store and retrieve data, providing a reliable and seamless user experience even when offline.
   ### Table of Contents 📖
   - [Usage](#usage-🎮)
   - [Instalation](#installation-⚙️)
